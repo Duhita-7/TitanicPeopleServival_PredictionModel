@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+titanicpeopleservival_predictionmodel.egg-info/PKG-INFO
+titanicpeopleservival_predictionmodel.egg-info/SOURCES.txt
+titanicpeopleservival_predictionmodel.egg-info/dependency_links.txt
+titanicpeopleservival_predictionmodel.egg-info/requires.txt
+titanicpeopleservival_predictionmodel.egg-info/top_level.txt
